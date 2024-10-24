@@ -1,6 +1,8 @@
-##Introduction
+# Adventure-Works-Dashboard
+https://github.com/user-attachments/assets/440b66f7-7b75-42e8-a7c3-935a2fb13866
+## Introduction
 The goal of this project was to create a business intelligence dashboard for AdventureWorks, a fictional cycling equipment company, using Power BI. The purpose for doing this was to demonstrate my ability to build insightful, accurate, and aesthetic reports in Power BI.
-##Features
+## Features
 Analyze product level trends
 Track key performance indicators (KPIs) related to revenue, sales, returns, and profit
 Compare sales performance across different regions
@@ -8,19 +10,19 @@ Create aesthetic and insightful pages directed at a specific target audience (ex
 Identify high-value customers
 Utilize latest AI visuals such as decomposition tree and anomaly detection to improve data insights and reduce errors
 Provide dense layers of analysis while maintaining a simple overall presentation for executive level end-users
-##Design
+## Design
 Connect and transform raw data
 Build a relational data model
 Create calculations and measures using DAX
 Design an interactive and dynamic dashboard
-##Dashboard
+## Dashboard
 Executive Summary View
 1.High-level KPI tracking for revenue, profit, orders, and return rates
 2.Target KPIs for month-to-month performance vs expectations
 3.Top products performance with regard to category
 4.page level filtering for detailed analysis
 5.drill-through feature to populate product detail view
-##Insights
+## Insights
 1.Approximately $24.9 million in revenue was generated between January 2020 and June 2022, generating $10.5 million in profit.
 2.Accessories account for the largest number of orders, specifically with tires and tubes being the most ordered product type. However, a large percentage of the total profit comes from bike sales which account for roughly $9.7 million, or roughly 92.3% of the total profit.
 3.Clothing has the highest return rate of all order categories, with shorts being the most returned item. However, an outlier in returns rates is the Road - 750 Black, 48 bike, which has a return rate of 4.23% which is significantly higher than other bikes. This would be worth investigating as a possible manufacturer defect associated with this bike that responsible for the higher than normal return rate.
