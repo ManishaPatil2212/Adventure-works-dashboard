@@ -1,5 +1,5 @@
 # Adventure-Works-Dashboard
-https://github.com/user-attachments/assets/440b66f7-7b75-42e8-a7c3-935a2fb13866
+https://github.com/user-attachments/assets/301060b9-d5a6-453c-b574-ba14c829dab2
 ## Introduction
 The goal of this project was to create a business intelligence dashboard for AdventureWorks, a fictional cycling equipment company, using Power BI. The purpose for doing this was to demonstrate my ability to build insightful, accurate, and aesthetic reports in Power BI.
 ## Features
